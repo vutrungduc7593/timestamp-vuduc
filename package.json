@@ -1,0 +1,11 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Vu Trung Duc",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
